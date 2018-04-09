@@ -1,4 +1,4 @@
-# arcweui-vue-v1
+# arcweui-vue-v2
 weui的vue版本(此版本非通用组件，更多是业务组件，不适合外部使用)
 # 说明
 样式依赖weui css，[weui链接地址](https://github.com/Tencent/weui/wiki/getting-started)
@@ -11,14 +11,14 @@ weui的vue版本(此版本非通用组件，更多是业务组件，不适合外
 
 #安装/使用
 
-   npm install arcweui-vue-v1 --save
+   npm install arcweui-vue-v2 --save
 
    main.js 引入依赖：
 ``` javascript
-import ArcWeUIV1 from 'arcweui-vue-v1'
-import 'arcweui-vue-v1/dist/arcweui-vue-v1.min.css'
+import ArcWeUIV1 from 'arcweui-vue-v2'
+import 'arcweui-vue-v1/dist/arcweui-vue-v2.min.css'
 import 'mint-ui/lib/style.css'
-Vue.use(ArcWeUIV1)
+Vue.use(ArcWeUIV2)
 ```
    具体使用请到github 下载项目看examples
 
