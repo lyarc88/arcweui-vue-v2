@@ -5,14 +5,14 @@ import App from './App'
 import router from './router'
 import './assets/base.less'
 
-import ArcWeUIV1 from '@/index.js'
+import ArcWeUIV2 from '@/index.js'
 import 'mint-ui/lib/style.css'
 import * as common from '$demo/assets/js/common'
 import * as codeSnippet from '$demo/assets/js/codesnippet'
 
 Vue.prototype.$fileServer = '/weixin/api/'
 
-Vue.use(ArcWeUIV1)
+Vue.use(ArcWeUIV2)
 Vue.config.productionTip = false
 
 let appMark = 'worklog'

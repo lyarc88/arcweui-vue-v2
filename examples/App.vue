@@ -18,7 +18,7 @@ export default {
   name: 'App',
   data() {
     return {
-      title: 'ARC WX Component Demo v1',
+      title: 'ARC WX Component Demo v2',
       goBackUrl: false,
       msgInfo: {
         msg: '数据加载中',

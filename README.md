@@ -16,7 +16,7 @@ weui的vue版本(此版本非通用组件，更多是业务组件，不适合外
    main.js 引入依赖：
 ``` javascript
 import ArcWeUIV1 from 'arcweui-vue-v2'
-import 'arcweui-vue-v1/dist/arcweui-vue-v2.min.css'
+import 'arcweui-vue-v2/dist/arcweui-vue-v2.min.css'
 import 'mint-ui/lib/style.css'
 Vue.use(ArcWeUIV2)
 ```

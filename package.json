@@ -1,10 +1,10 @@
 {
-  "name": "arcweui-vue-v1",
+  "name": "arcweui-vue-v2",
   "version": "1.1.4",
   "description": "基于mint-ui和weui",
   "author": "jing cheng <xinjingcheng@outlook.com>",
   "private": false,
-  "main": "dist/arcweui-vue-v1.min.js",
+  "main": "dist/arcweui-vue-v2.min.js",
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "npm run dev",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tkggusraqk/arcweui-vue-v1.git"
+    "url": "git+https://github.com/lyarc88/arcweui-vue-v2.git"
   },
   "files": [
     "dist",
@@ -25,7 +25,7 @@
     "arc"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/tkggusraqk/arcweui-vue-v1/blob/master/README.md",
+  "homepage": "https://github.com/lyarc88/arcweui-vue-v2/blob/master/README.md",
   "dependencies": {
     "axios": "^0.17.1",
     "mint-ui": "^2.2.10",
